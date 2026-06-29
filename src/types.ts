@@ -3,10 +3,14 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+export type Frequency = 'annual' | 'quarterly';
+
 export interface FinancialYear {
   year: number;
+  quarter?: number;
+  label?: string;
   revenue: number;
-  operatingIncome: number; // EBIT
+  operatingIncome: number;
   netIncome: number;
   depreciationAmortization: number;
   capex: number;
@@ -66,6 +70,7 @@ export interface StockAnalysis {
   sector: string;
   currentPrice: number;
   history: FinancialYear[];
+  quarterlyHistory: FinancialYear[];
   inputs: ValuationInputs;
   riskScore: RiskScore;
   lastUpdated: string;

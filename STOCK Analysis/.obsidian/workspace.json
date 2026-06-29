@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "1c13ebffdd7fdb7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4043bbdcb95970f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43c2b1da9afe3245",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d3d6130f681614b",
+    "type": "split",
+    "children": [
+      {
+        "id": "38b741a2f2c0f88e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0fc36dae2e13c6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b157c0558415690a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b886cb5d05b6bff3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b09006aa937c346",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec837a742f8f3cc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7e2b4f030aac64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "83be2230b9b6cd63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0e23b60489f8803b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "57dc336fb1ec1208",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0e9078a3cdb39189",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "43c2b1da9afe3245",
+  "lastOpenFiles": [
+    "Quick-Reference/glossary.md",
+    "Quick-Reference/constants.md",
+    "Quick-Reference/formulas.md",
+    "Quick-Reference/_index.md",
+    "Implementation/error-handling.md",
+    "Implementation/typescript-types.md",
+    "Implementation/math-engine.md",
+    "Implementation/data-flow-pipeline.md",
+    "Implementation/_index.md",
+    "Research-Methods/football-field.md",
+    "Research-Methods/lbo-and-sotp.md",
+    "Research-Methods/dcf-vs-comps.md",
+    "Research-Methods/institutional-overview.md",
+    "Research-Methods/_index.md",
+    "Market-Benchmarks/precedent-transactions.md",
+    "Market-Benchmarks/trading-comps.md",
+    "Market-Benchmarks/pe-ratios.md",
+    "Market-Benchmarks/sector-ev-ebitda.md",
+    "Market-Benchmarks/_index.md",
+    "Financial-Health/risk-radar.md",
+    "Financial-Health/piotroski-f-score.md",
+    "Financial-Health/altman-z-score.md",
+    "Financial-Health/_index.md",
+    "Valuation-Core/sensitivity-analysis.md",
+    "Valuation-Core/terminal-value.md",
+    "Valuation-Core/dcf-implementation.md",
+    "Quick-Reference",
+    "Implementation",
+    "Research-Methods",
+    "Market-Benchmarks",
+    "Financial-Health",
+    "Valuation-Core",
+    "Data-Layer"
+  ]
+}
