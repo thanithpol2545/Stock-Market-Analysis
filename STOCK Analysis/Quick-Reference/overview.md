@@ -17,6 +17,6 @@ The stem of the flower. This petal provides **one-stop lookup** for all formulas
 | Petal | Connection |
 |-------|------------|
 | ALL | Every leaf in every petal links to [[Quick-Reference/formulas\|Formulas]] for the raw mathematical expressions |
-| [[Valuation-Core/_index\|Valuation-Core]] | [[Quick-Reference/constants\|Constants]] provides Rf and ERP used in [[Valuation-Core/capm-model\|CAPM]] |
-| [[Data-Layer/_index\|Data-Layer]] | [[Quick-Reference/constants\|Constants]] has sector classification keys |
-| [[Implementation/_index\|Implementation]] | [[Implementation/math-engine\|Math Engine]] uses [[Quick-Reference/constants\|default constants]] |
+| [[Valuation-Core/overview|Valuation-Core]] | [[Quick-Reference/constants\|Constants]] provides Rf and ERP used in [[Valuation-Core/capm-model\|CAPM]] |
+| [[Data-Layer/overview|Data-Layer]] | [[Quick-Reference/constants\|Constants]] has sector classification keys |
+| [[Implementation/overview|Implementation]] | [[Implementation/math-engine\|Math Engine]] uses [[Quick-Reference/constants\|default constants]] |

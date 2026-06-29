@@ -61,7 +61,7 @@ function buildRiskRadar(scores: RiskScores): RiskRadarData {
 
 ## Related
 
-- [[Financial-Health/_index]] — back to hub
+- [[Financial-Health/overview]] — back to hub
 - [[Implementation/data-flow-pipeline]] — scores pipeline
 - [[Implementation/typescript-types]] — RiskScore type
 - [[Valuation-Core/wacc-theory]] — discount rate adjustment for distressed firms

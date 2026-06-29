@@ -17,7 +17,7 @@ This petal covers everything about **where EquiValue gets its raw data**. The ap
 
 | Petal | Connection |
 |-------|------------|
-| [[Valuation-Core/_index\|Valuation-Core]] | The data from this petal feeds directly into [[Valuation-Core/dcf-implementation\|DCF]], [[Valuation-Core/wacc-theory\|WACC]], and [[Valuation-Core/capm-model\|CAPM]] |
-| [[Financial-Health/_index\|Financial-Health]] | [[Financial-Health/altman-z-score\|Altman Z]] and [[Financial-Health/piotroski-f-score\|Piotroski F]] depend on specific XBRL concepts (e.g., `us-gaap_RetainedEarningsAccumulatedDeficit`) |
-| [[Implementation/_index\|Implementation]] | [[Implementation/data-flow-pipeline\|Data Flow Pipeline]] describes the full fetch-transform-render chain |
-| [[Quick-Reference/_index\|Quick-Reference]] | [[Quick-Reference/constants\|Constants]] has default risk-free rates and ERP values |
+| [[Valuation-Core/overview|Valuation-Core]] | The data from this petal feeds directly into [[Valuation-Core/dcf-implementation\|DCF]], [[Valuation-Core/wacc-theory\|WACC]], and [[Valuation-Core/capm-model\|CAPM]] |
+| [[Financial-Health/overview|Financial-Health]] | [[Financial-Health/altman-z-score\|Altman Z]] and [[Financial-Health/piotroski-f-score\|Piotroski F]] depend on specific XBRL concepts (e.g., `us-gaap_RetainedEarningsAccumulatedDeficit`) |
+| [[Implementation/overview|Implementation]] | [[Implementation/data-flow-pipeline\|Data Flow Pipeline]] describes the full fetch-transform-render chain |
+| [[Quick-Reference/overview|Quick-Reference]] | [[Quick-Reference/constants\|Constants]] has default risk-free rates and ERP values |

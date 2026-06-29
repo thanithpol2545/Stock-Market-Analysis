@@ -122,4 +122,4 @@ Net Margin = Net Income / Revenue
 
 - [[Quick-Reference/constants]] — default values for formulas
 - [[Quick-Reference/glossary]] — definitions of key terms
-- [[Quick-Reference/_index]] — back to hub
+- [[Quick-Reference/overview]] — back to hub

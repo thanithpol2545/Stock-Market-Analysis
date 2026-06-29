@@ -67,4 +67,4 @@ We group reports by year, merging quarterly into annual totals where needed. See
 
 - [[Data-Layer/gaap-concepts]] — details on each XBRL concept tag and fallback order
 - [[Data-Layer/sec-alternative]] — backing up with SEC EDGAR when Finnhub rate-limits
-- [[Data-Layer/_index]] — back to Data-Layer hub
+- [[Data-Layer/overview]] — back to Data-Layer hub

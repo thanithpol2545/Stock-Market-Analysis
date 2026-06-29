@@ -17,9 +17,9 @@ This petal examines **10 institutional valuation methods**, compares their use c
 
 | Petal | Connection |
 |-------|------------|
-| [[Valuation-Core/_index\|Valuation-Core]] | DCF (the primary method) from this petal |
-| [[Market-Benchmarks/_index\|Market-Benchmarks]] | Trading Comps and Precedent Transactions provide relative valuation |
-| [[Financial-Health/_index\|Financial-Health]] | Distress → Asset-Based valuation; low F-score → higher discount rate |
-| [[Data-Layer/_index\|Data-Layer]] | All methods depend on [[Data-Layer/finnhub-endpoints\|Finnhub data]] |
-| [[Implementation/_index\|Implementation]] | [[Implementation/data-flow-pipeline\|Data Flow]] shows the compute chain |
-| [[Quick-Reference/_index\|Quick-Reference]] | [[Quick-Reference/formulas\|Formulas]] — all formulas in one place |
+| [[Valuation-Core/overview|Valuation-Core]] | DCF (the primary method) from this petal |
+| [[Market-Benchmarks/overview|Market-Benchmarks]] | Trading Comps and Precedent Transactions provide relative valuation |
+| [[Financial-Health/overview|Financial-Health]] | Distress → Asset-Based valuation; low F-score → higher discount rate |
+| [[Data-Layer/overview|Data-Layer]] | All methods depend on [[Data-Layer/finnhub-endpoints\|Finnhub data]] |
+| [[Implementation/overview|Implementation]] | [[Implementation/data-flow-pipeline\|Data Flow]] shows the compute chain |
+| [[Quick-Reference/overview|Quick-Reference]] | [[Quick-Reference/formulas\|Formulas]] — all formulas in one place |

@@ -16,8 +16,8 @@ This petal covers **financial health assessment** — quantitative bankruptcy pr
 
 | Petal | Connection |
 |-------|------------|
-| [[Data-Layer/_index\|Data-Layer]] | Z-score needs `retainedEarnings`, `currentAssets`, `currentLiabilities` from [[Data-Layer/gaap-concepts\|GAAP concepts]]; F-score needs `operatingCashFlow`, `grossProfit`, `totalAssets` |
-| [[Valuation-Core/_index\|Valuation-Core]] | Financial health feeds into **discount rate adjustment** — distressed firms → higher WACC; see [[Valuation-Core/wacc-theory]] |
-| [[Market-Benchmarks/_index\|Market-Benchmarks]] | Bankruptcy rates vary by sector — default spreads from [[Market-Benchmarks/sector-ev-ebitda\|sector data]] |
-| [[Research-Methods/_index\|Research-Methods]] | Distressed firms → asset-based valuation; see [[Research-Methods/lbo-and-sotp\|SOTP and LBO]] |
-| [[Implementation/_index\|Implementation]] | Scores computed in `valuationUtils.ts`; see [[Implementation/data-flow-pipeline\|Data Flow]] |
+| [[Data-Layer/overview|Data-Layer]] | Z-score needs `retainedEarnings`, `currentAssets`, `currentLiabilities` from [[Data-Layer/gaap-concepts\|GAAP concepts]]; F-score needs `operatingCashFlow`, `grossProfit`, `totalAssets` |
+| [[Valuation-Core/overview|Valuation-Core]] | Financial health feeds into **discount rate adjustment** — distressed firms → higher WACC; see [[Valuation-Core/wacc-theory]] |
+| [[Market-Benchmarks/overview|Market-Benchmarks]] | Bankruptcy rates vary by sector — default spreads from [[Market-Benchmarks/sector-ev-ebitda\|sector data]] |
+| [[Research-Methods/overview|Research-Methods]] | Distressed firms → asset-based valuation; see [[Research-Methods/lbo-and-sotp\|SOTP and LBO]] |
+| [[Implementation/overview|Implementation]] | Scores computed in `valuationUtils.ts`; see [[Implementation/data-flow-pipeline\|Data Flow]] |

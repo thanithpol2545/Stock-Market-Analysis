@@ -17,8 +17,8 @@ This petal covers **relative valuation** — using comparable companies and mark
 
 | Petal | Connection |
 |-------|------------|
-| [[Valuation-Core/_index\|Valuation-Core]] | Terminal Value via [[Valuation-Core/terminal-value\|Exit Multiple]] uses sector EV/EBITDA; DCF output vs. comps range → [[Research-Methods/football-field\|football field]] |
-| [[Data-Layer/_index\|Data-Layer]] | P/E needs price from [[Data-Layer/finnhub-endpoints\|Finnhub quote]]; book value per share from [[Data-Layer/gaap-concepts\|GAAP concepts]] |
-| [[Financial-Health/_index\|Financial-Health]] | Distressed firms attract lower multiples; bankruptcy risk affects comp selection |
-| [[Research-Methods/_index\|Research-Methods]] | [[Research-Methods/dcf-vs-comps\|DCF vs Comps]] — when relative value dominates; [[Research-Methods/football-field\|football field]] synthesizes both |
-| [[Implementation/_index\|Implementation]] | Multiples displayed in FinancialTable; see [[Implementation/data-flow-pipeline\|Data Flow]] |
+| [[Valuation-Core/overview|Valuation-Core]] | Terminal Value via [[Valuation-Core/terminal-value\|Exit Multiple]] uses sector EV/EBITDA; DCF output vs. comps range → [[Research-Methods/football-field\|football field]] |
+| [[Data-Layer/overview|Data-Layer]] | P/E needs price from [[Data-Layer/finnhub-endpoints\|Finnhub quote]]; book value per share from [[Data-Layer/gaap-concepts\|GAAP concepts]] |
+| [[Financial-Health/overview|Financial-Health]] | Distressed firms attract lower multiples; bankruptcy risk affects comp selection |
+| [[Research-Methods/overview|Research-Methods]] | [[Research-Methods/dcf-vs-comps\|DCF vs Comps]] — when relative value dominates; [[Research-Methods/football-field\|football field]] synthesizes both |
+| [[Implementation/overview|Implementation]] | Multiples displayed in FinancialTable; see [[Implementation/data-flow-pipeline\|Data Flow]] |

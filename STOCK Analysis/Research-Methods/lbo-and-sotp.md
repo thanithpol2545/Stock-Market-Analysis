@@ -89,4 +89,4 @@ Asset-Based is the fallback when:
 - [[Market-Benchmarks/precedent-transactions]] — M&A multiples (used in LBO exit)
 - [[Research-Methods/dcf-vs-comps]] — when to use which method
 - [[Research-Methods/institutional-overview]] — full methods matrix
-- [[Financial-Health/_index]] — distress triggers asset-based
+- [[Financial-Health/overview]] — distress triggers asset-based

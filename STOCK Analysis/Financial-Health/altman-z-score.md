@@ -77,4 +77,4 @@ EquiValue currently has:
 
 - [[Financial-Health/piotroski-f-score]] — complementary quality score
 - [[Data-Layer/gaap-concepts]] — the XBRL tags needed for each ratio
-- [[Financial-Health/_index]] — back to hub
+- [[Financial-Health/overview]] — back to hub
